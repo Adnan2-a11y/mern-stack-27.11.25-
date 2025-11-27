@@ -1,0 +1,84 @@
+Here are some commonly used emojis that are **safe to use inside code comments, UI labels, button texts, notifications, and logs**. You can **copy-paste directly**:
+
+---
+
+### ⭐ General Purpose
+
+```
+✨ 🚀 🔥 💡 💻 📚 🛠️ ⚙️ 📝 📌 📎 🗂️
+```
+
+---
+
+### ✔️ Status & Feedback
+
+```
+✅ ❌ ⚠️ ⛔ 🟢 🔴 🟡 🔵 ℹ️ 🕒 ⏳
+```
+
+---
+
+### 💬 Messages & Notifications
+
+```
+💬 ✉️ 🔔 📢 📩 📥 📤 🗨️ 📨
+```
+
+---
+
+### 🔍 Search & Filter
+
+```
+🔍 🔎 🗂️ 🧭 🧾
+```
+
+---
+
+### 🗃 Data / Files / Code Related
+
+```
+🗃️ 📁 📂 📄 📜 🗒️ 💾 🧾 🧮 🗃️
+```
+
+---
+
+### ❤️ UI Reactions
+
+```
+👍 👎 ❤️ 🙌 🤝 👀 ⭐ 💯
+```
+
+---
+
+### 📈 Analytics / Performance
+
+```
+📊 📈 📉 📆 🧮
+```
+
+---
+
+### 👤 User / Account
+
+```
+👤 👥 🔑 🔐 🛡️
+```
+
+---
+
+### 🔗 Navigation
+
+```
+🏠 ↩️ 🔗 ➕ ➖ 📎 🔄
+```
+
+---
+
+If you need **category-based emoji lists**, like:
+➡ programming workflow
+➡ dashboard UI design
+➡ success/error messages
+➡ e-commerce or product
+➡ education platform
+
+— just tell me, I’ll prepare a tailored emoji pack for you! 🚀
